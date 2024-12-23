@@ -1,6 +1,6 @@
 # MEDICADOR - Relógio Despertador para Medicação
 
-![Projeto Medicador+ TE:CN](assets\Medicador.jpg)
+![Medicador+ TE:CN](assets/Medicador.jpg)
 
 ## Descrição
 Este projeto foi desenvolvido como parte da disciplina de Introdução à Engenharia de Computação na Universidade Federal da Paraíba (UFPB). O objetivo do projeto é criar um relógio despertador que auxilia usuários a lembrar de tomar seus medicamentos em horários específicos. O sistema utiliza um RTC (Real Time Clock) DS3231, um display LCD com interface I2C, um teclado matricial e um Arduino para controlar o sistema.
@@ -70,6 +70,6 @@ Assista ao vídeo de apresentação do projeto no YouTube:
 - **Menu e Navegação**: Funções para apresentar e navegar pelo menu de configuração e edição.
 
 ## Licença
-Este projeto é de uso livre para fins acadêmicos e pessoais. Sinta-se à vontade para modificar e adaptar conforme suas necessidades.
+Este projeto está licenciado sob a [MIT License](LICENSE).
 
 ---
