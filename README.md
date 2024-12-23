@@ -1,4 +1,4 @@
-# MEDICADOR - Relógio Despertador para Medicação
+# MEDICADOR+ TE:CN - Relógio Despertador para Medicação
 
 ![Medicador+ TE:CN](assets/Medicador.jpg)
 
